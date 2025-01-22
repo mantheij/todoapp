@@ -1,0 +1,1 @@
+App crasht leider wegen DB Verbindungsproblemen, habe keine Zeit mehr zum fixen
